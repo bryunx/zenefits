@@ -1,0 +1,18 @@
+body {
+	position: relative;
+	top: 0;
+	left: 0;
+	text-align: center;
+}
+ul {
+	padding-bottom: 10px;
+}
+li {
+	width: 1000px;
+}
+ul #todo_list {
+	margin-left: 200px;
+}
+.edit {
+	margin-right: 5px;
+}
